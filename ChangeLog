@@ -1,9 +1,8 @@
 2018-10-31  Bogdan-Andrei Iancu  <bogdan at opensips dot org>
-	* [220470a] :
+
+	* [e294977] :
 
 	Updated INSTALL and Changelog
-	(cherry picked from commit e2949772ef0472bfdf513831a01500450d81c055)
-
 
 2018-10-31  Bogdan Iancu  <bogdan at opensips dot org>
 	* [9cd40b6] :
